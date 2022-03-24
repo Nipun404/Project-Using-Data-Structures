@@ -62,5 +62,5 @@ COMPILER LIKE MINGW DEV C++ .
 
 ## Support
 
-For support, email khajurianipun2@gmail.com
+For support, email nipun404@outlook.com
 
